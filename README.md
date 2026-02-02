@@ -225,3 +225,5 @@ CI/CD GitHub Actions
 
 Tests finaux
 
+![Dashboard](Téléchargements/architecture.png)
+
