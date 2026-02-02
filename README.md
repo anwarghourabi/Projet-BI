@@ -1,6 +1,5 @@
 # Unsupervised Job–Candidate Matching System with Explainable AI
 
-Ce projet a été réalisé dans le cadre du module **Python for Data Science 2: Guided Machine Learning** sous la supervision de **Haythem Ghazouani**.  
 L’objectif est de construire un système intelligent de **matching entre CV et offres d’emploi**, capable de :
 
 - Calculer un **score de compatibilité** entre le profil du candidat et les offres disponibles
@@ -225,5 +224,5 @@ CI/CD GitHub Actions
 
 Tests finaux
 
-![architecture](Téléchargements/architecture.png)
 
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/1d2aaa8b-e29f-441a-a8b7-ed4f693af9ab" />
